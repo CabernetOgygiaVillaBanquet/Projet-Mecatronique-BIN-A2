@@ -1,0 +1,3 @@
+https://www.tinkercad.com/things/ht6ujHLBsCy
+
+Schéma du moteur encodeur sur Tinkercad avec l'Arduino
