@@ -1,0 +1,1 @@
+Add power from module to Arduino Breadboard, an Arduino Uno cannot power a DC Motor with an Encoder.
