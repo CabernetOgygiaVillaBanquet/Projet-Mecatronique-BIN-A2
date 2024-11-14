@@ -1,0 +1,10 @@
+Montage Arduino, montage du pont H avec le moteur encodeur grace a la datasheet et a la soudure de broches sur le moteur encodeur.
+
+Moteur avec encodeur: L'encodeur fournit des impulsions à l'Arduino à chaque incrément de rotation du moteur, permettant ainsi de calculer la vitesse et la position du moteur.
+
+Programmation: Le programme crée permet de :
+Lire les données de l'encodeur.
+Calculer la vitesse et la position du moteur.
+Contrôler la vitesse et le sens de rotation du moteur en fonction des informations reçues et des objectifs du robot.
+
+Il faut maintenant alimenter le système avec une puissance de 5V, grâce à la module d’alimentation. L’arduino UNO n’est pas capable d’alimenter le moteur avec encodeur.
